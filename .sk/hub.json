@@ -1,0 +1,59 @@
+{
+  "titulo": "ai-studio-pc (1)",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "app/ferramentas/chat-rapido.html",
+      "nome": "Chat IA Pro — Saulo",
+      "desc": "",
+      "on": false,
+      "icone": "app/ferramentas/icons/icon.svg"
+    },
+    {
+      "path": "app/ferramentas/dividir-juntar.html",
+      "nome": "Mesa: Divisor-22.html + Juntador-2.html",
+      "desc": "",
+      "on": false,
+      "icone": "app/ferramentas/icons/icon-192.png"
+    },
+    {
+      "path": "app/ferramentas/imagem.html",
+      "nome": "Mesa: Medidor-de-Imagem.html + Preparador-pprinfs.html + Conversor-1.html",
+      "desc": "",
+      "on": false,
+      "icone": "app/ferramentas/icons/icon-192.png"
+    },
+    {
+      "path": "app/ferramentas/leitor-backup.html",
+      "nome": "📂 Leitor Universal de Arquivos",
+      "desc": "",
+      "on": false,
+      "icone": "app/ferramentas/icons/icon-192.png"
+    },
+    {
+      "path": "app/ferramentas/markdown.html",
+      "nome": "Visualizador de Markdown",
+      "desc": "",
+      "on": false,
+      "icone": "app/ferramentas/icons/icon-192.png"
+    },
+    {
+      "path": "app/index.html",
+      "nome": "AI Studio PC",
+      "desc": "",
+      "on": true,
+      "icone": "app/icons/icon.svg"
+    },
+    {
+      "path": "electron/navegador.html",
+      "nome": "🌐 Navegador — Mini SK",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
