@@ -18,9 +18,9 @@
     "electron-builder": "25.1.8"
   },
   "build": {
-    "appId": "com.maikon.aistudio.pc",
-    "productName": "AI Studio",
-    "executableName": "AIStudio",
+    "appId": "com.maikon.aistudio.pc.nteste11250046",
+    "productName": "AI Studio (teste 11250046)",
+    "executableName": "AIStudio-nteste11250046",
     "directories": {
       "output": "release"
     },
@@ -42,13 +42,13 @@
       "perMachine": false,
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true,
-      "shortcutName": "AI Studio",
-      "artifactName": "AIStudio-Instalar.exe",
+      "shortcutName": "AI Studio (teste 11250046)",
+      "artifactName": "AIStudio-nteste11250046-Instalar.exe",
       "include": "electron/instalar.nsh"
     },
     "portable": {
-      "artifactName": "AIStudio-sem-instalar.exe"
+      "artifactName": "AIStudio-nteste11250046-sem-instalar.exe"
     }
   },
-  "portaDoPrograma": 7740
+  "portaDoPrograma": 9012
 }
